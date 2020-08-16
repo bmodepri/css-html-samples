@@ -83,6 +83,7 @@ p {
 
 * HTML color names: eg: red, blue, yellow, etc.
 * Hexadecimal: ```#FF652F```
+    * when code has the same number repeated 6 times ->  #333 is the same as #333333
 * rgb/rgba
     * red, green, blue -> ```rgb(255, 202, 47)``` 
     * red, green, blue, alpha(defines the transparency of the image) -> ```rgba(255, 101, 47, 1)```
