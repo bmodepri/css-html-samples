@@ -1,4 +1,4 @@
-# CSS Tricks 
+# CSS Crash Course 
 
 ## Tips and best practices:
 
