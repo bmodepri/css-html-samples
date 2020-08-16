@@ -28,3 +28,7 @@
     * Keeps the styles separate from HTML
     * Improve readability and reusability
 
+
+### Selector diagram:
+
+![Selector Diagram](./readme/css_selector_diag.png)
