@@ -48,11 +48,13 @@
     * A good resource to pick the right [color](https://htmlcolorcodes.com/)
     * A good resource to pick some beautiful [color combinations](https://www.canva.com/learn/100-color-combinations/)
 
-#### Web Safe Fonts: 
-    * works in all browsers, eg:. Arial, Helvetica, Times Nem Roman, Verdana 
-    * ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.
+#### Web Safe Fonts:  
+
+* works in all browsers, eg:. Arial, Helvetica, Times Nem Roman, Verdana 
+* ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.
 
 
-### Units and measurement:
-    * Absolute units : physical units of lenght eg:. ```px```
-    * Absolute length units approximate the actual measurement on a screen eg:. ```em```
+### Units and measurement:  
+
+* Absolute units : physical units of lenght eg:. ```px```
+* Absolute length units approximate the actual measurement on a screen eg:. ```em```
