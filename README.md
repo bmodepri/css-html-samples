@@ -13,13 +13,14 @@
     * It is not scalable
     * Using !important will break the styles "cascade" that elements do down from one to another, avoid using it as much as possible or you can end up losing hours trying to   figure out what's the problem.
 
+
 **************************
 
 :exclamation:
 
-* Internal is better, but not optimal :point_right: ```  <style></style> ```
+* Internal is better, but not optimal :point_right: ```<style></style>```
     * you can add a <style> tag to the HTML where the elements will be styled, but it can only be used in one file
-    * Which will make the the file larger
+    * which will make the the file larger
 
 **************************
 
@@ -36,7 +37,8 @@
     * Make some small comments in your CSS to understand how each style is related to another and what color scheme applies to which components
     * In case it's necessary to change something on a bigger project or that comes from a framework, create an .css file that explicitly overrides the element, add some comments to for better readability. 
 
-#### Don't forget that CSS is read from top to bottom, so the order metters, eg:. 
+
+#### Don't forget that CSS is read from top to bottom, so the order metters, e.g. 
 
 In this example the last line will override all the other border attributes:
 ```
@@ -57,10 +59,10 @@ p {
     padding-bottom: 10px;
     padding-left: 20px;
 
-        /* OR Defining the values started by the top and following clockwise */
+        /* OR defining the values started by the top and following clockwise */
     padding: 10px 20px 10px 20px;
 
-       /* OR Defininig the top and bottom as 10px and the left and right as 20px*/
+       /* OR defininig the top and bottom as 10px and the left and right as 20px*/
     padding: 10px 20px;
 
        /* OR when the element has the same padding all around*/
@@ -89,7 +91,7 @@ p {
 
 #### how you can define the color of your HTML elements:
 
-* HTML color names: eg: red, blue, yellow, etc.
+* HTML color names: e.g. red, blue, yellow, etc.
 * Hexadecimal: ```#FF652F```
     * when code has the same number repeated 6 times ->  #333 is the same as #333333
 * rgb/rgba
@@ -134,14 +136,14 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 ### identifiyng the element on it's respective CSS file:
 
-* id : starts with # ->  indicates that that element is being used only one time (it is unique at your page)
+* id : starts with ```#``` ->  indicates that that element is being used only one time (it is unique at your page)
 ```
     #mainHeader {
         ....
     }
 ```
 
-* class: starts with . ->  indicates that that element is being used multiple times in different places at your page.
+* class: starts with ```.``` ->  indicates that that element is being used multiple times in different places at your page.
 ```
     .container {
         ....
