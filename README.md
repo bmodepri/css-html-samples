@@ -119,4 +119,4 @@ p {
 
 
 
-# Ensuring responsivity
+# Ensuring responsiveness
