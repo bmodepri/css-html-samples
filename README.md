@@ -50,4 +50,4 @@
 
 #### Web Safe Fonts: 
     * works in all browsers, eg:. Arial, Helvetica, Times Nem Roman, Verdana 
-#### font-family: 
+    * ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.
