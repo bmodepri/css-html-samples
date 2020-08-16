@@ -55,5 +55,5 @@
 **************************
 
 ### Units and measurement:  
-* Absolute units : physical units of lenght eg:. ```px```  
-* Absolute length units approximate the actual measurement on a screen eg:. ```em```  
+* Absolute units : physical units of lenght eg:. ```px```; Absolute length units approximate the actual measurement on a screen  
+* Relative units, are relative to another length value eg:. ```em``` is based on the size of an element's font -> if the font size is 16px then 1em would equal 16px. 0.5em would equal to 8px.
