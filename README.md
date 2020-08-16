@@ -54,6 +54,9 @@ p {
 
        /* OR Defininig the top and bottom as 10px and the left and right as 20px*/
     padding: 10px 20px;
+
+       /* OR when the element has the same padding all around*/
+    padding: 20px;
 }
 ```
 
