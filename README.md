@@ -11,6 +11,7 @@
     * You will have to style each element separately
     * It is not efficient
     * It is not scalable
+    * Using !important will break the styles "cascade" that elements do down from one to another, avoid using it as much as possible or you can end up losing hours trying to   figure out what's the problem.
 
 **************************
 
@@ -27,6 +28,13 @@
 * External is the Best :point_right: ``` <link href="style.css"> ```
     * Keeps the styles separate from HTML
     * Improve readability and reusability
+    * Using ID instead of classes where it makes sense, it's a faster way for the browser to access DOM elements
+    * Use the browser inspector to "debug" your CSS, is easier to understand the hierarchy and identify what could be impacting
+    * Use preprocessors to help optimize your CSS, carefull with spacing between selectors and between properties
+    * Partition your CSS to make it more manageable and better readable. Each CSS file could be broken into logical components like header.css, footer.css, etc
+    * Use good description for your selectors, make clear what your components are on the page. e.g: "header-left," "content-title," or "content-date"
+    * Make some small comments in your CSS to understand how each style is related to another and what color scheme applies to which components
+    * In case it's necessary to change something on a bigger project or that comes from a framework, create an .css file that explicitly overrides the element, add some comments to for better readability. 
 
 #### Don't forget that CSS is read from top to bottom, so the order metters, eg:. 
 
