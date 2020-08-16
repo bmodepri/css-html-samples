@@ -41,6 +41,26 @@ p {
 }
 ```
 
+#### There are two ways for setting properties: 
+```
+p {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+
+        /* OR */
+    padding: 10px 20px 10px 20px;
+}
+```
+
+#### 
+* padding: used to generate space around an element's content, inside of any defined borders.
+* border: allow you to specify the style, width, and color of an element's border.
+* margin: used to create space around elements, outside of any defined borders.
+![](./readme/img/element_attributes_1.png)
+
+
 **************************
 
 ### Selector diagram:

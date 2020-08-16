@@ -14,4 +14,12 @@ p {
     border-bottom: 5px dashed red;
     border-left: 2px dotted green;
     border: 3px solid green;
+
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+
+        /* OR */
+    padding: 10px 20px 10px 20px;
 }
