@@ -49,8 +49,11 @@ p {
     padding-bottom: 10px;
     padding-left: 20px;
 
-        /* OR */
+        /* OR Defining the values started by the top and following clockwise */
     padding: 10px 20px 10px 20px;
+
+       /* OR Defininig the top and bottom as 10px and the left and right as 20px*/
+    padding: 10px 20px;
 }
 ```
 
