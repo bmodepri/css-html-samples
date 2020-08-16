@@ -60,10 +60,11 @@ p {
 }
 ```
 
-#### 
+#### The box model properties:
 * padding: used to generate space around an element's content, inside of any defined borders.  
 * border: allow you to specify the style, width, and color of an element's border.  
 * margin: used to create space around elements, outside of any defined borders.  
+* content: the element itself.
 
 ![](./readme/img/element_attributes_1.png)
 
