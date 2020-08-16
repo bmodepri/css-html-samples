@@ -98,3 +98,21 @@ p {
 ### Units and measurement:  
 * Absolute units : physical units of lenght eg:. ```px```; Absolute length units approximate the actual measurement on a screen  
 * Relative units, are relative to another length value eg:. ```em``` is based on the size of an element's font -> if the font size is 16px then 1em would equal 16px. 0.5em would equal to 8px.
+
+
+### identifiyng the element on it's respective CSS file:
+
+* id : starts with # -> usually indicates that that element is being used only one time (it is unique at your page)
+```
+    #mainHeader {
+        ....
+    }
+```
+
+* class: starts with . -> usually indicates that that element is being used multiple times in different places at your page.
+```
+    .container {
+        ....
+    }
+```
+

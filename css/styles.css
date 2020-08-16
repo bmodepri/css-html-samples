@@ -4,6 +4,14 @@ body {
     line-height: 1.6em;
 }
 
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+
 h2 {
     color: red;
 }
