@@ -116,3 +116,6 @@ p {
     }
 ```
 
+
+
+# Ensuring responsivity
