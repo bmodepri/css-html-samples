@@ -28,7 +28,26 @@
     * Keeps the styles separate from HTML
     * Improve readability and reusability
 
+**************************
 
 ### Selector diagram:
 
 ![](./readme/img/css_selector_diag.png)
+
+**************************
+
+### Colors and Fonts:
+
+#### how you can define the color of your HTML elements:
+
+* HTML color names: eg: red, blue, yellow, etc.
+* Hexadecimal: ```#FF652F```
+* rgb/rgba
+    * red, green, blue -> ```rgb(255, 202, 47)``` 
+    * red, green, blue, alpha(defines the transparency of the image) -> ```rgba(255, 101, 47, 1)```
+    * A good resource to pick the right [color](https://htmlcolorcodes.com/)
+    * A good resource to pick some beautiful [color combinations](https://www.canva.com/learn/100-color-combinations/)
+
+#### Web Safe Fonts: 
+    * works in all browsers, eg:. Arial, Helvetica, Times Nem Roman, Verdana 
+#### font-family: 
