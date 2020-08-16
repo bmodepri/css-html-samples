@@ -16,7 +16,7 @@
 
 :exclamation:
 
-* Internal is better, but not optimal :point_right: <code>  <style></style> </code>
+* Internal is better, but not optimal :point_right: ```  <style></style> ```
     * you can add a <style> tag to the HTML where the elements will be styled, but it can only be used in one file
     * Which will make the the file larger
 
@@ -24,7 +24,7 @@
 
 :thumbsup:
 
-* External is the Best :point_right: <code> <link href="style.css"> </code>
+* External is the Best :point_right: ``` <link href="style.css"> ```
     * Keeps the styles separate from HTML
     * Improve readability and reusability
 
