@@ -100,6 +100,29 @@ p {
 * Absolute units : physical units of lenght eg:. ```px```; Absolute length units approximate the actual measurement on a screen  
 * Relative units, are relative to another length value eg:. ```em``` is based on the size of an element's font -> if the font size is 16px then 1em would equal 16px. 0.5em would equal to 8px.
 
+#### Absolute Lengths:  
+Unit| Description
+-------------------
+cm  |centimeters
+mm  |millimeters
+in  |inches (1in = 96px = 2.54cm)
+px *|pixels (1px = 1/96th of 1in)
+pt  |points (1pt = 1/72 of 1in)
+pc  |picas (1pc = 12 pt)
+
+#### Relative Lengths:  
+Unit| Description
+-------------------
+em  |Relative to the font-size of the element (2em means 2 times the size of the current font)	
+ex  |Relative to the x-height of the current font (rarely used)	
+ch  |Relative to the width of the "0" (zero)	
+rem |Relative to font-size of the root element	
+vw  |Relative to 1% of the width of the viewport*	
+vh  |Relative to 1% of the height of the viewport*	
+vmin|Relative to 1% of viewport's* smaller dimension	
+vmax|Relative to 1% of viewport's* larger dimension	
+%	|Relative to the parent element
+
 
 ### identifiyng the element on it's respective CSS file:
 
