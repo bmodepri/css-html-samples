@@ -102,7 +102,7 @@ p {
 
 #### Absolute Lengths:  
 Unit| Description
--------------------
+-------------------|------------------------------------------------
 cm  |centimeters
 mm  |millimeters
 in  |inches (1in = 96px = 2.54cm)
@@ -112,7 +112,7 @@ pc  |picas (1pc = 12 pt)
 
 #### Relative Lengths:  
 Unit| Description
--------------------
+-------------------|-------------------------------------------------------------------------
 em  |Relative to the font-size of the element (2em means 2 times the size of the current font)	
 ex  |Relative to the x-height of the current font (rarely used)	
 ch  |Relative to the width of the "0" (zero)	
