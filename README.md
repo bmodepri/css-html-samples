@@ -31,4 +31,4 @@
 
 ### Selector diagram:
 
-![](../readme/img/css_selector_diag.png)
+![](./readme/img/css_selector_diag.png)
