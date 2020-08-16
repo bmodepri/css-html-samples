@@ -41,7 +41,7 @@ p {
 }
 ```
 
-#### There are two ways for setting properties: 
+#### There are several ways for setting properties: 
 ```
 p {
     padding-top: 10px;
