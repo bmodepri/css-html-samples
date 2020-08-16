@@ -126,14 +126,14 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 ### identifiyng the element on it's respective CSS file:
 
-* id : starts with # -> indicates that that element is being used only one time (it is unique at your page)
+* id : starts with # ->  indicates that that element is being used only one time (it is unique at your page)
 ```
     #mainHeader {
         ....
     }
 ```
 
-* class: starts with . -> indicates that that element is being used multiple times in different places at your page.
+* class: starts with . ->  indicates that that element is being used multiple times in different places at your page.
 ```
     .container {
         ....
