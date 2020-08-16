@@ -28,6 +28,19 @@
     * Keeps the styles separate from HTML
     * Improve readability and reusability
 
+#### Don't forget that CSS is read from top to bottom, so the order metters, eg:. 
+
+In this example the last line will override all the other border attributes:
+```
+p {
+    border-top: 5px solid blue;
+    border-right: 2px dotted green;
+    border-bottom: 5px dashed red;
+    border-left: 2px dotted green;
+    border: 3px solid green;
+}
+```
+
 **************************
 
 ### Selector diagram:
