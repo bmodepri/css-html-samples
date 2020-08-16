@@ -6,7 +6,7 @@
 
 :-1:
 
-* Do not add css inlne! even though it is possible. :point_right: <code> "<div style="color:red">" </code>
+* Do not add css inlne! even though it is possible. :point_right: <code> ```<div style="color:red">``` </code>
     * It is a bad practice 
     * You will have to style each element separately
     * It is not efficient
