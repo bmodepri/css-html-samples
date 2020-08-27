@@ -6,7 +6,7 @@
 
 :-1:
 
-* Do not add css inlne! even though it is possible. :point_right: ```<div style="color:red">```
+* Do not add CSS inline! Even though it is possible. :point_right: ```<div style="color:red">```
     * It is a bad practice 
     * You will have to style each element separately
     * It is not efficient
@@ -156,3 +156,12 @@ vmax|Relative to 1% of viewport's* larger dimension
 * Viewport  
  * A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.  
  * Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels.
+
+# [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
+
+* A reset stylesheet (or CSS reset) is a collection of CSS rules used to clear the formatting of HTML elements.
+
+## Notable reset style sheets
+
+* [Eric A. Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
+* [Normalize.css](http://necolas.github.io/normalize.css/)
