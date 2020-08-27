@@ -153,4 +153,5 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 
 # Ensuring responsiveness
-...
+* Viewport
+A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.
