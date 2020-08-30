@@ -156,6 +156,7 @@ vmax|Relative to 1% of viewport's* larger dimension
 * Viewport  
  A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.  
  Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels.  
+   
 
 # [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
 
