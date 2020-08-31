@@ -166,19 +166,19 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 
 * Tools to ensure responsiveness:
 
- Viewport:  
+ **Viewport:**  
  A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.  
  Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels.  
 
- Grid View:  
+ **Grid View:**  
  The Grid View devide the page space into columns, making easier to distribute the elements on the page.  
  A responsive grid-view often has 12 columns, and has a total width of 100%, and will shrink and expand as you resize the browser window.  
 
- Media Queries:  
+ **Media Queries:**  
  Media query is a CSS technique introduced in CSS3.  
  It uses the @media rule to include a block of CSS properties only if a certain condition is true, for instance, if the screen size is smaller than 400px.  
 
- Width:  
+ **Width:**  
  If the width property is set to a percentage and the height is set to "auto", the element will be responsive and scale up and down, it is useful for instance to scale   
  an image or video on the scree.  
 
