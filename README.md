@@ -170,3 +170,10 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 * [Eric A. Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 * [Normalize.css](http://necolas.github.io/normalize.css/)
+
+*****************
+# Style Guides:
+
+* Google: [Material Design](https://material.io/design)
+* Apple: [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* Twitter: [Bootstrap](https://getbootstrap.com/)
