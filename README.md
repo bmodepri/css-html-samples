@@ -193,9 +193,15 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 * [Normalize.css](http://necolas.github.io/normalize.css/)
 
 *****************
-# Style Guides:
+# UI Patterns:
 
 * Google: [Material Design](https://material.io/design)
 * Apple: [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 * Twitter: [Bootstrap](https://getbootstrap.com/)
 * Design Patterns Libraries for mobile: [Mobbin](https://mobbin.design/)
+
+# Style Guides:
+
+* [Toyota](https://www.toyota.com/brandguidelines/)
+* [Uber](https://www.uber.com/de/de/careers/design/)
+* [AirBnb](https://airbnb.design/)
