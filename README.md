@@ -157,11 +157,32 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 
 # Ensuring responsiveness
-* Viewport  
+
+It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
+
+* Responsive web design makes your web page look good on all devices.
+* Responsive web design uses only HTML and CSS.
+* Responsive web design is not a program or a JavaScript.
+
+* Tools to ensure responsiveness:
+
+ Viewport:  
  A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.  
  Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels.  
-   
 
+ Grid View:  
+ The Grid View devide the page space into columns, making easier to distribute the elements on the page.  
+ A responsive grid-view often has 12 columns, and has a total width of 100%, and will shrink and expand as you resize the browser window.  
+
+ Media Queries:  
+ Media query is a CSS technique introduced in CSS3.  
+ It uses the @media rule to include a block of CSS properties only if a certain condition is true, for instance, if the screen size is smaller than 400px.  
+
+ Width:  
+ If the width property is set to a percentage and the height is set to "auto", the element will be responsive and scale up and down, it is useful for instance to scale   
+ an image or video on the scree.  
+
+ 
 # [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
 
 * A reset stylesheet (or CSS reset) is a collection of CSS rules used to clear the formatting of HTML elements.
