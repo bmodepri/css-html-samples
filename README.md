@@ -1,4 +1,4 @@
-# CSS Refference
+# CSS + HTML Samples and quick reference:
 
 ## Tips and best practices:
 
