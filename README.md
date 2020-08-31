@@ -177,3 +177,4 @@ vmax|Relative to 1% of viewport's* larger dimension
 * Google: [Material Design](https://material.io/design)
 * Apple: [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 * Twitter: [Bootstrap](https://getbootstrap.com/)
+* Design Patterns Libraries for mobile: [Mobbin](https://mobbin.design/)
