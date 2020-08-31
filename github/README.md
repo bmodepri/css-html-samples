@@ -43,3 +43,6 @@ git pull
 git checkout <yourbranchname>
 git merge origin/master  
 git push origin <yourbranchname>
+
+## Revert your last commit:
+git reset --hard HEAD~1

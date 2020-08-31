@@ -101,8 +101,12 @@ p {
     * A good resource to pick some beautiful [color combinations](https://www.canva.com/learn/100-color-combinations/)
 
 #### Web Safe Fonts:  
+The font-family property should hold several font names as a "fallback" system, to ensure maximum compatibility between browsers/operating systems. If the browser does not support the first font, it tries the next font.  
+
+Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available:  
+
 * works in all browsers, eg:. Arial, Helvetica, Times Nem Roman, Verdana  
-* ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.
+* ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.  
 
 **************************
 
