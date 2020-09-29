@@ -214,4 +214,10 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
+# Color Schemes:  
 
+* [Visme](https://visme.co/blog/website-color-schemes/)  
+
+* [colors.lol](https://colors.lol/)  
+
+* [uiGradients](https://uigradients.com/)  
