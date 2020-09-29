@@ -1,4 +1,8 @@
-# CSS Crash Course 
+
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+***************************
+# CSS + HTML Samples and quick reference:
 
 ## Tips and best practices:
 
@@ -101,8 +105,12 @@ p {
     * A good resource to pick some beautiful [color combinations](https://www.canva.com/learn/100-color-combinations/)
 
 #### Web Safe Fonts:  
+The font-family property should hold several font names as a "fallback" system, to ensure maximum compatibility between browsers/operating systems. If the browser does not support the first font, it tries the next font.  
+
+Start with the font you want, and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available:  
+
 * works in all browsers, eg:. Arial, Helvetica, Times Nem Roman, Verdana  
-* ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.
+* ```font-family: Arial, Helvetica, sans-serif``` -> to ensure a fallback of the fonts, in case one of them is not available.  
 
 **************************
 
@@ -153,10 +161,32 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 
 # Ensuring responsiveness
-* Viewport  
- * A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.  
- * Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels.
 
+It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
+
+* Responsive web design makes your web page look good on all devices.
+* Responsive web design uses only HTML and CSS.
+* Responsive web design is not a program or a JavaScript.
+
+* Tools to ensure responsiveness:
+
+ **Viewport:**  
+ A meta viewport tag gives the browser instructions on how to control the page's dimensions and scaling.  
+ Using the meta viewport value width=device-width instructs the page to match the screen's width in device-independent pixels.  
+
+ **Grid View:**  
+ The Grid View devide the page space into columns, making easier to distribute the elements on the page.  
+ A responsive grid-view often has 12 columns, and has a total width of 100%, and will shrink and expand as you resize the browser window.  
+
+ **Media Queries:**  
+ Media query is a CSS technique introduced in CSS3.  
+ It uses the @media rule to include a block of CSS properties only if a certain condition is true, for instance, if the screen size is smaller than 400px.  
+
+ **Width:**  
+ If the width property is set to a percentage and the height is set to "auto", the element will be responsive and scale up and down, it is useful for instance to scale   
+ an image or video on the scree.  
+
+ 
 # [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
 
 * A reset stylesheet (or CSS reset) is a collection of CSS rules used to clear the formatting of HTML elements.
@@ -165,3 +195,23 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 * [Eric A. Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 * [Normalize.css](http://necolas.github.io/normalize.css/)
+
+*****************
+# UI Patterns:  
+
+* Google: [Material Design](https://material.io/design)
+* Apple: [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+* Twitter: [Bootstrap](https://getbootstrap.com/)
+* Design Patterns Libraries for mobile: [Mobbin](https://mobbin.design/)
+
+# Style Guides:  
+
+* [Toyota](https://www.toyota.com/brandguidelines/)
+* [Uber](https://www.uber.com/de/de/careers/design/)
+* [AirBnb](https://airbnb.design/)
+
+# Useful tools:  
+
+* [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+
+
