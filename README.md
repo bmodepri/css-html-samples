@@ -163,8 +163,6 @@ vmax|Relative to 1% of viewport's* larger dimension
     }
 ```
 
-
-
 # Ensuring responsiveness
 
 It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
@@ -206,7 +204,6 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 * [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
 * [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
 
-*****************
 # Preprocessor style sheet language  
 
 * [Sass - Syntactically awesome style sheets](https://sass-lang.com/)
