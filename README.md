@@ -201,6 +201,11 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 * [Eric A. Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 * [Normalize.css](http://necolas.github.io/normalize.css/)
 
+# CSS Sprites
+
+* [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
+* [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
+
 *****************
 # Preprocessor style sheet language  
 
