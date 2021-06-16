@@ -146,8 +146,9 @@ vmin|Relative to 1% of viewport's* smaller dimension
 vmax|Relative to 1% of viewport's* larger dimension	
 %	|Relative to the parent element
 
+**************************
 
-### identifiyng the element on it's respective CSS file:
+# Identifiyng the element on it's respective CSS file:
 
 * id : starts with ```#``` ->  indicates that that element is being used only one time (it is unique at your page)
 ```
@@ -162,6 +163,7 @@ vmax|Relative to 1% of viewport's* larger dimension
         ....
     }
 ```
+**************************
 
 # Ensuring responsiveness
 
@@ -189,7 +191,8 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
  If the width property is set to a percentage and the height is set to "auto", the element will be responsive and scale up and down, it is useful for instance to scale   
  an image or video on the scree.  
 
- 
+**************************
+
 # [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
 
 * A reset stylesheet (or CSS reset) is a collection of CSS rules used to clear the formatting of HTML elements.
@@ -199,35 +202,47 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 * [Eric A. Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 * [Normalize.css](http://necolas.github.io/normalize.css/)
 
+**************************
+
 # CSS Sprites
 
 * [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
 * [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
 
-# Preprocessor style sheet language  
+**************************
+
+# Preprocessor style sheet language
 
 * [Sass - Syntactically awesome style sheets](https://sass-lang.com/)
 * [Less - Leaner style sheets](http://lesscss.org/)
 * [Stylus](https://stylus-lang.com/)
 
-# UI Patterns:  
+**************************
+
+# UI Patterns:
 
 * Google: [Material Design](https://material.io/design)
 * Apple: [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 * Twitter: [Bootstrap](https://getbootstrap.com/)
 * Design Patterns Libraries for mobile: [Mobbin](https://mobbin.design/)
 
-# Style Guides:  
+**************************
+
+# Style Guides:
 
 * [Toyota](https://www.toyota.com/brandguidelines/)
 * [Uber](https://www.uber.com/de/de/careers/design/)
 * [AirBnb](https://airbnb.design/)
 
-# Useful tools:  
+**************************
+
+# Useful tools:
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
-# Color Schemes:  
+**************************
+
+# Color Schemes:
 
 * [Visme](https://visme.co/blog/website-color-schemes/)  
 
