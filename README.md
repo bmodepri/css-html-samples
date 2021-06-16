@@ -1,13 +1,13 @@
 <div align="center">
-   <h1>CSS + HTML Samples and quick reference:</h1>
+   <h1>HTML and CSS - Quick Reference and Samples</h1>
 </div>
 <br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="150px">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" width="150px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="100px">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" width="100px">
 </div>
 
-# _CSS:_
+# CSS:
 
 ## Tips and best practices:
 
@@ -148,7 +148,7 @@ vmax|Relative to 1% of viewport's* larger dimension
 
 **************************
 
-# Identifiyng the element on it's respective CSS file:
+### Identifiyng the element on it's respective CSS file:
 
 * id : starts with ```#``` ->  indicates that that element is being used only one time (it is unique at your page)
 ```
@@ -165,7 +165,7 @@ vmax|Relative to 1% of viewport's* larger dimension
 ```
 **************************
 
-# Ensuring responsiveness
+### Ensuring responsiveness
 
 It is called responsive web design when you use CSS and HTML to resize, hide, shrink, enlarge, or move the content to make it look good on any screen.
 
@@ -193,25 +193,25 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 
 **************************
 
-# [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
+### [Reset style sheet](https://en.wikipedia.org/wiki/Reset_style_sheet)
 
 * A reset stylesheet (or CSS reset) is a collection of CSS rules used to clear the formatting of HTML elements.
 
-## Notable reset style sheets
+#### Notable reset style sheets
 
 * [Eric A. Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 * [Normalize.css](http://necolas.github.io/normalize.css/)
 
 **************************
 
-# CSS Sprites
+### CSS Sprites
 
 * [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
 * [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
 
 **************************
 
-# Preprocessor style sheet language
+### Preprocessor style sheet language
 
 * [Sass - Syntactically awesome style sheets](https://sass-lang.com/)
 * [Less - Leaner style sheets](http://lesscss.org/)
@@ -219,7 +219,7 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 
 **************************
 
-# UI Patterns:
+### UI Patterns:
 
 * Google: [Material Design](https://material.io/design)
 * Apple: [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
@@ -228,7 +228,7 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 
 **************************
 
-# Style Guides:
+### Style Guides:
 
 * [Toyota](https://www.toyota.com/brandguidelines/)
 * [Uber](https://www.uber.com/de/de/careers/design/)
@@ -236,16 +236,14 @@ It is called responsive web design when you use CSS and HTML to resize, hide, sh
 
 **************************
 
-# Useful tools:
+### Useful tools:
 
 * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
 
 **************************
 
-# Color Schemes:
+### Color Schemes:
 
-* [Visme](https://visme.co/blog/website-color-schemes/)  
-
-* [colors.lol](https://colors.lol/)  
-
-* [uiGradients](https://uigradients.com/)  
+* [Visme](https://visme.co/blog/website-color-schemes/)
+* [colors.lol](https://colors.lol/)
+* [uiGradients](https://uigradients.com/)
